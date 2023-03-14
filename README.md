@@ -1,24 +1,5 @@
-# README
+# Course: Curso Ruby on Rails 7 para principiantes en español 💎
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Course made by Aprendev
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Taken from: https://www.youtube.com/playlist?list=PLP06kydD_xaUS6plnsdonHa5ySbPx1PrP
